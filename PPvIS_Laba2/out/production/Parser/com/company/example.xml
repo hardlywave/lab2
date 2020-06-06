@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<table>
+  <note>
+    <pet_name>Abricos</pet_name>
+    <date_of_birth>6 мая 2016 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Diabetes</diagnosis>
+  </note>
+  <note>
+    <pet_name>Bars</pet_name>
+    <date_of_birth>14 мая 2015 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Epilepsy</diagnosis>
+  </note>
+  <note>
+    <pet_name>Bacs</pet_name>
+    <date_of_birth>16 мая 2013 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Rabies</diagnosis>
+  </note>
+  <note>
+    <pet_name>Brocolli</pet_name>
+    <date_of_birth>9 мая 2014 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Catty</pet_name>
+    <date_of_birth>10 мая 2014 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Carry</pet_name>
+    <date_of_birth>11 мая 2014 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Caraly</pet_name>
+    <date_of_birth>12 мая 2014 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Caffee</pet_name>
+    <date_of_birth>13 мая 2014 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Rabies</diagnosis>
+  </note>
+  <note>
+    <pet_name>Coffee</pet_name>
+    <date_of_birth>14 мая 2014 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Comp</pet_name>
+    <date_of_birth>15 мая 2014 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Epilepsy</diagnosis>
+  </note>
+  <note>
+    <pet_name>Conf</pet_name>
+    <date_of_birth>16 мая 2014 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Cory</pet_name>
+    <date_of_birth>16 мая 2015 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Diabetes</diagnosis>
+  </note>
+  <note>
+    <pet_name>Dicaprio</pet_name>
+    <date_of_birth>19 мая 2016 г.</date_of_birth>
+    <last_date>5 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Ful</diagnosis>
+  </note>
+  <note>
+    <pet_name>Davinchi</pet_name>
+    <date_of_birth>21 июл. 2016 г.</date_of_birth>
+    <last_date>6 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Canser</diagnosis>
+  </note>
+  <note>
+    <pet_name>Dany</pet_name>
+    <date_of_birth>22 авг. 2016 г.</date_of_birth>
+    <last_date>6 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Epilepsy</diagnosis>
+  </note>
+  <note>
+    <pet_name>Dory</pet_name>
+    <date_of_birth>8 сент. 2017 г.</date_of_birth>
+    <last_date>6 мая 2020 г.</last_date>
+    <doctor>Darya Zik</doctor>
+    <diagnosis>Epilepsy</diagnosis>
+  </note>
+  <note>
+    <pet_name>Ezzy</pet_name>
+    <date_of_birth>30 сент. 2017 г.</date_of_birth>
+    <last_date>6 мая 2020 г.</last_date>
+    <doctor>Darya Zik</doctor>
+    <diagnosis>Epilepsy</diagnosis>
+  </note>
+  <note>
+    <pet_name>Ezzy</pet_name>
+    <date_of_birth>30 сент. 2017 г.</date_of_birth>
+    <last_date>6 мая 2020 г.</last_date>
+    <doctor>Darya Zik</doctor>
+    <diagnosis>Epilepsy</diagnosis>
+  </note>
+  <note>
+    <pet_name>Ewsa</pet_name>
+    <date_of_birth>26 окт. 2017 г.</date_of_birth>
+    <last_date>6 мая 2020 г.</last_date>
+    <doctor>Darya Zik</doctor>
+    <diagnosis>Canser</diagnosis>
+  </note>
+  <note>
+    <pet_name>Esly</pet_name>
+    <date_of_birth>17 нояб. 2017 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Darya Zik</doctor>
+    <diagnosis>Canser</diagnosis>
+  </note>
+  <note>
+    <pet_name>Fanny</pet_name>
+    <date_of_birth>8 нояб. 2017 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Darya Zik</doctor>
+    <diagnosis>Canser</diagnosis>
+  </note>
+  <note>
+    <pet_name>Filly</pet_name>
+    <date_of_birth>20 нояб. 2017 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Darya Zik</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Fil</pet_name>
+    <date_of_birth>24 нояб. 2017 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Nikita Gim</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>File</pet_name>
+    <date_of_birth>26 нояб. 2017 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Nikita Gim</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Movie</pet_name>
+    <date_of_birth>29 дек. 2017 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Nikita Gim</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Niki</pet_name>
+    <date_of_birth>1 янв. 2018 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Nikita Gim</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Liki</pet_name>
+    <date_of_birth>3 янв. 2018 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Lol</pet_name>
+    <date_of_birth>4 янв. 2018 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Diabetes</diagnosis>
+  </note>
+  <note>
+    <pet_name>Loby</pet_name>
+    <date_of_birth>5 янв. 2018 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Diabetes</diagnosis>
+  </note>
+  <note>
+    <pet_name>Lory</pet_name>
+    <date_of_birth>5 янв. 2018 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Canser</diagnosis>
+  </note>
+  <note>
+    <pet_name>Lechi</pet_name>
+    <date_of_birth>20 янв. 2018 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Canser</diagnosis>
+  </note>
+  <note>
+    <pet_name>Let</pet_name>
+    <date_of_birth>20 февр. 2018 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Snow</pet_name>
+    <date_of_birth>23 мар. 2018 г.</date_of_birth>
+    <last_date>7 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Siri</pet_name>
+    <date_of_birth>31 мар. 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Pila</pet_name>
+    <date_of_birth>30 апр. 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Cancer</diagnosis>
+  </note>
+  <note>
+    <pet_name>Pravda</pet_name>
+    <date_of_birth>16 мая 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Cancer</diagnosis>
+  </note>
+  <note>
+    <pet_name>Prada</pet_name>
+    <date_of_birth>18 мая 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Lyla Condo</doctor>
+    <diagnosis>Cancer</diagnosis>
+  </note>
+  <note>
+    <pet_name>Picadily</pet_name>
+    <date_of_birth>14 июн. 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Cancer</diagnosis>
+  </note>
+  <note>
+    <pet_name>Pica</pet_name>
+    <date_of_birth>14 июн. 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Potato</pet_name>
+    <date_of_birth>16 авг. 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Polka</pet_name>
+    <date_of_birth>25 авг. 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Frida</pet_name>
+    <date_of_birth>11 окт. 2018 г.</date_of_birth>
+    <last_date>8 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Dermatitis</diagnosis>
+  </note>
+  <note>
+    <pet_name>Folo</pet_name>
+    <date_of_birth>27 нояб. 2018 г.</date_of_birth>
+    <last_date>9 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Dermatitis</diagnosis>
+  </note>
+  <note>
+    <pet_name>Xiaomi</pet_name>
+    <date_of_birth>16 дек. 2018 г.</date_of_birth>
+    <last_date>9 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Cancer</diagnosis>
+  </note>
+  <note>
+    <pet_name>Shani</pet_name>
+    <date_of_birth>16 янв. 2019 г.</date_of_birth>
+    <last_date>9 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+  <note>
+    <pet_name>Silik</pet_name>
+    <date_of_birth>28 янв. 2019 г.</date_of_birth>
+    <last_date>9 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Flu</diagnosis>
+  </note>
+  <note>
+    <pet_name>Silk</pet_name>
+    <date_of_birth>28 янв. 2019 г.</date_of_birth>
+    <last_date>9 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Diabetes</diagnosis>
+  </note>
+  <note>
+    <pet_name>Dom</pet_name>
+    <date_of_birth>28 янв. 2019 г.</date_of_birth>
+    <last_date>10 мая 2020 г.</last_date>
+    <doctor>Denis Sir</doctor>
+    <diagnosis>Diabetes</diagnosis>
+  </note>
+  <note>
+    <pet_name>Dreva</pet_name>
+    <date_of_birth>16 февр. 2019 г.</date_of_birth>
+    <last_date>10 мая 2020 г.</last_date>
+    <doctor>Nikita Gim</doctor>
+    <diagnosis>Cancer</diagnosis>
+  </note>
+  <note>
+    <pet_name>Dimon</pet_name>
+    <date_of_birth>12 мар. 2019 г.</date_of_birth>
+    <last_date>10 мая 2020 г.</last_date>
+    <doctor>Nikita Gim</doctor>
+    <diagnosis>Cancer</diagnosis>
+  </note>
+  <note>
+    <pet_name>Diller</pet_name>
+    <date_of_birth>12 мар. 2019 г.</date_of_birth>
+    <last_date>10 мая 2020 г.</last_date>
+    <doctor>Nikita Gim</doctor>
+    <diagnosis>Cancer</diagnosis>
+  </note>
+  <note>
+    <pet_name>Killer</pet_name>
+    <date_of_birth>22 апр. 2019 г.</date_of_birth>
+    <last_date>10 мая 2020 г.</last_date>
+    <doctor>Nikita Gim</doctor>
+    <diagnosis>Null</diagnosis>
+  </note>
+</table>

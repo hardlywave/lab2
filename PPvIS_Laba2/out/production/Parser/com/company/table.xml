@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<table>
+    <note>
+        <pet_name>Abricos</pet_name>
+        <date_of_birth>6 мая 2016 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Diabetes</diagnosis>
+    </note>
+    <note>
+        <pet_name>Bars</pet_name>
+        <date_of_birth>14 мая 2015 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Epilepsy</diagnosis>
+    </note>
+    <note>
+        <pet_name>Bacs</pet_name>
+        <date_of_birth>16 мая 2013 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Rabies</diagnosis>
+    </note>
+    <note>
+        <pet_name>Brocolli</pet_name>
+        <date_of_birth>9 мая 2014 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Flu</diagnosis>
+    </note>
+    <note>
+        <pet_name>Catty</pet_name>
+        <date_of_birth>10 мая 2014 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Null</diagnosis>
+    </note>
+    <note>
+        <pet_name>Carry</pet_name>
+        <date_of_birth>11 мая 2014 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Flu</diagnosis>
+    </note>
+    <note>
+        <pet_name>Caraly</pet_name>
+        <date_of_birth>12 мая 2014 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Flu</diagnosis>
+    </note>
+    <note>
+        <pet_name>Caffee</pet_name>
+        <date_of_birth>13 мая 2014 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Rabies</diagnosis>
+    </note>
+    <note>
+        <pet_name>Coffee</pet_name>
+        <date_of_birth>14 мая 2014 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Null</diagnosis>
+    </note>
+    <note>
+        <pet_name>Comp</pet_name>
+        <date_of_birth>15 мая 2014 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Epilepsy</diagnosis>
+    </note>
+    <note>
+        <pet_name>Conf</pet_name>
+        <date_of_birth>16 мая 2014 г.</date_of_birth>
+        <last_date>5 мая 2020 г.</last_date>
+        <doctor>Lyla Condo</doctor>
+        <diagnosis>Null</diagnosis>
+    </note>
+</table>
+
+
+
